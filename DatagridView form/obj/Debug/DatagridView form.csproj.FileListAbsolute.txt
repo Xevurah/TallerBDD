@@ -1,0 +1,10 @@
+C:\Users\ali_5\source\repos\DatagridView form\DatagridView form\bin\Debug\DatagridView form.exe.config
+C:\Users\ali_5\source\repos\DatagridView form\DatagridView form\bin\Debug\DatagridView form.exe
+C:\Users\ali_5\source\repos\DatagridView form\DatagridView form\bin\Debug\DatagridView form.pdb
+C:\Users\ali_5\source\repos\DatagridView form\DatagridView form\obj\Debug\DatagridView form.csprojAssemblyReference.cache
+C:\Users\ali_5\source\repos\DatagridView form\DatagridView form\obj\Debug\DatagridView_form.Form1.resources
+C:\Users\ali_5\source\repos\DatagridView form\DatagridView form\obj\Debug\DatagridView_form.Properties.Resources.resources
+C:\Users\ali_5\source\repos\DatagridView form\DatagridView form\obj\Debug\DatagridView form.csproj.GenerateResource.cache
+C:\Users\ali_5\source\repos\DatagridView form\DatagridView form\obj\Debug\DatagridView form.csproj.CoreCompileInputs.cache
+C:\Users\ali_5\source\repos\DatagridView form\DatagridView form\obj\Debug\DatagridView form.exe
+C:\Users\ali_5\source\repos\DatagridView form\DatagridView form\obj\Debug\DatagridView form.pdb
